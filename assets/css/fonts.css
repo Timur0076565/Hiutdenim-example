@@ -1,0 +1,27 @@
+/*------------------------------------*\
+                 FONTS
+\*------------------------------------*/
+
+@font-face {
+    font-family: 'Calluna';
+    src: url('../fonts/Calluna-Regular.woff2') format('woff2'),
+        url('../fonts/Calluna-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+  @font-face {
+    font-family: 'Nimbus Sans L';
+    src: url('../fonts/NimbusSanL-Bol.woff2') format('woff2'),
+        url('../fonts/NimbusSanL-Bol.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+  
+  @font-face {
+    font-family: 'Nimbus Sans L';
+    src: url('../fonts/NimbusSanL-Reg.woff2') format('woff2'),
+        url('../fonts/NimbusSanL-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
